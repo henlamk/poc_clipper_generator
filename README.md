@@ -1,0 +1,1 @@
+# poc_clipper_generator
